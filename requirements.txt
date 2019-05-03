@@ -1,0 +1,2 @@
+pylint
+pyqt5
